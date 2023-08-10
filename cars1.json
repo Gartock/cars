@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Land-Cruiser-rsz1.jpg",
+            "body": "SUV",
+            "make": "Toyota",
+            "price": "$32,800",
+            "color": "Blue",
+            "model": "X5"
+        },
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/BMW-x5-rsz1.jpeg",
+            "body": "crossover",
+            "make": "BMW",
+            "price": "$22,800",
+            "color`": "Red",
+            "model": "X7"
+        },
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Forester-rsz1.jpg",
+            "body": "SUV",
+            "make": "Subaru",
+            "price": "$36,800",
+            "color`": "Green",
+            "model": "Forester"
+        },
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Celica-rsz1.jpg",
+            "body": "sedan",
+            "make": "Toyota",
+            "price": "$37,800",
+            "color`": "Blue",
+            "model": "Land Cruiser"
+        },
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/BMW-x7-rsz1.jpg",
+            "body": "sedan",
+            "make": "BMW",
+            "price": "$38,800",
+            "color`": "Green",
+            "model": "X9"
+        },
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/maxresdefault.jpg",
+            "body": "SUV",
+            "make": "Subaru",
+            "price": "$39,800",
+            "color`": "Blue",
+            "model": "OutBack"
+        },
+        {
+            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/5b749de9dcee3029008b5476.jpeg",
+            "body": "SUV",
+            "make": "Toyota",
+            "price": "$36,900",
+            "color`": "Green",
+            "model": "4Runner"
+        }
+    ]
+}
